@@ -1,7 +1,5 @@
 # Blockchain Learning Week 3
 
-# Decentralized Banking Platform Project
-
 ## Overview
 
 This week 3 assignent aims to understand solidity in a deeper manner along with understnding of hardhat and how unit testing can help in testing sart contracts.
